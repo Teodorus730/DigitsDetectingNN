@@ -2,7 +2,7 @@ import pygame
 from config import *
 from indata import in_data
 
-from musthave import *
+from variations import *
 from pprint import pprint
 
 import warnings

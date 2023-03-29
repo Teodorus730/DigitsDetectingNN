@@ -5,7 +5,7 @@ INP_DIM = WIDTH * HEIGHT
 HID_DIM = 20000  # количество нейронов во внутреннем слое
 OUT_DIM = 10
 
-GENERATIONS = 100  # количество поколений
+GENERATIONS = 300  # количество поколений
 
 RANDOM_SIZE = 200  # количество изображений fake в батче
 RANDOM_AMOUNT = 10000  # количество изображений группы fake
